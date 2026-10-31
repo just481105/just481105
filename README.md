@@ -1,16 +1,17 @@
-## Hi there 👋
+## Xin chào, mình là Đức Nam 👋
 
-<!--
-**just481105/just481105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là sinh viên CNTT, đang làm đồ án tốt nghiệp và học về lập trình backend, mobile và IoT.
 
-Here are some ideas to get you started:
+### Công nghệ mình dùng
+![Skills](https://skillicons.dev/icons?i=ts,js,html,css,git,github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dự án nổi bật
+- [DoAnTotNghiep](https://github.com/just481105/DoAnTotNghiep): đồ án tốt nghiệp (TypeScript)
+- [backend-mobile-programming](https://github.com/just481105/backend-mobile-programming): lập trình backend cho mobile
+- [IOT](https://github.com/just481105/IOT): dự án IoT
+
+### Thống kê GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=just481105&show_icons=true&theme=dark)
+
+### Liên hệ
+- Email: just481105@gmail.com
