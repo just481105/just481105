@@ -20,13 +20,6 @@
 
 </div>
 
-### Công nghệ mình dùng
-![Skills](https://skillicons.dev/icons?i=ts,js,html,css,git,github)
-
-### Thống kê
-![Stats](https://github-readme-stats.vercel.app/api?username=just481105&show_icons=true&theme=dark)
-
-![Jokes](https://readme-jokes.vercel.app/api?theme=dark)
 
 ### Liên hệ
 - Email: just481105@gmail.com
