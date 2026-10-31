@@ -13,9 +13,6 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Tôi+là+Sinh+Viên+IT;Và+chuẩn+bị+thất+nghiệp+😅)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-![Jokes](https://readme-jokes.vercel.app/api?theme=dark)
 
 ![Views](https://komarev.com/ghpvc/?username=just481105&color=blue&label=Luot+xem)
 
