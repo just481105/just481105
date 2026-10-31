@@ -20,8 +20,7 @@
 
 </div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### Liên hệ
 - Email: just481105@gmail.com
