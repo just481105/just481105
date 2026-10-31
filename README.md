@@ -22,7 +22,7 @@
 
 </div>
 
-
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=just481105&theme=react-dark&hide_border=true)
 
 ### Liên hệ
 - Email: just481105@gmail.com
