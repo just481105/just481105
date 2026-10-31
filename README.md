@@ -21,6 +21,11 @@
 
 </div>
 
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com/?user=just481105&theme=radical&hide_border=true&timezone=Asia/Ho_Chi_Minh)
+
+</div>
 
 ### Liên hệ
 - Email: just481105@gmail.com
