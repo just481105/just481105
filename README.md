@@ -20,7 +20,6 @@
 ![Coffee](https://img.shields.io/badge/Cafe-Uống_mỗi_ngày-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![Bug](https://img.shields.io/badge/Bug-Fix_xong_lại_có-orange?style=for-the-badge)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=just481105&theme=onedark&no-frame=true&row=1&column=6)
 
 ### Liên hệ
 - Email: just481105@gmail.com
