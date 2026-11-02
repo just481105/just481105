@@ -8,6 +8,7 @@
 - [DoAnTotNghiep](https://github.com/just481105/DoAnTotNghiep): đồ án tốt nghiệp (TypeScript)
 - [backend-mobile-programming](https://github.com/just481105/backend-mobile-programming): lập trình backend cho mobile
 - [IOT](https://github.com/just481105/IOT): dự án IoT
+- [ nghiên cứu thực tập ] (https://github.com/just481105/nghien-cuu-thuc-tap-365): thực tập 365
 
 
 <div align="center">
