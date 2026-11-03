@@ -1,4 +1,4 @@
-## Xin chào, mình là Đức Nam 👋
+## Xin chào, mình là Đức Nam 👋..
 
 
 ### Công nghệ mình dùng
